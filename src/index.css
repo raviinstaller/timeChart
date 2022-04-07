@@ -1,0 +1,8 @@
+.w-500 {
+  width: 90%;
+  max-width: 500px;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
